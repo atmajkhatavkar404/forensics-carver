@@ -1,0 +1,7 @@
+2026-04-05 16:45:33,977 - ForensicCarver - INFO - Header found: JPG at offset 4096 (Sector: 8)
+2026-04-05 16:45:33,988 - ForensicCarver - INFO - Recovered: recovered_4096_jpg.jpg (51.00 B) - Status: corrupted
+2026-04-05 16:45:33,995 - ForensicCarver - INFO - Header found: PNG at offset 1024 (Sector: 2)
+2026-04-05 16:45:34,002 - ForensicCarver - INFO - Recovered: recovered_1024_png.png (61.00 B) - Status: corrupted
+2026-04-05 16:45:34,013 - ForensicCarver - INFO - Header found: PDF at offset 8192 (Sector: 16)
+2026-04-05 16:45:34,020 - ForensicCarver - INFO - Recovered: recovered_8192_pdf.pdf (54.00 B) - Status: partial
+2026-04-05 16:45:34,048 - ForensicCarver - INFO - Carving complete. Found 3 files in 0.07s.

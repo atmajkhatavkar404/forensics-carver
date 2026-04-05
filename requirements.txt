@@ -1,0 +1,6 @@
+customtkinter
+pillow
+python-magic
+olefile
+pandas
+tqdm
